@@ -8,4 +8,4 @@
 
 page | link
 ----- | -----
-reading for code 102 | 
+reading for code 102 | [Go Now](https://alaan-smadi.github.io/read-notes-corrected/)
