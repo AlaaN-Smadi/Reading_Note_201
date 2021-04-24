@@ -4,7 +4,7 @@
 
 ![Code_201](https://static.javatpoint.com/computer/images/what-is-computer-programming.png)
 
-- By select any page from the table bellow you can see my work during the lab
+- **By select any page from the table bellow you can see my work during the lab**
 
 page | link
 ----- | -----
