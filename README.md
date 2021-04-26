@@ -11,4 +11,4 @@ page | link
 reading for code 102 | [Go Now](https://alaan-smadi.github.io/read-notes-corrected/)
 class_01 | [Go Now](class_01)
 class_02 | [Go Now](class_02)
-class_03 | [Go Now](class_03)
+class_03 | [Go Now](read_03)
