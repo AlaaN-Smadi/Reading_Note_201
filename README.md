@@ -12,5 +12,6 @@ reading for code 102 | [Go Now](https://alaan-smadi.github.io/read-notes-correct
 class_01 | [Go Now](class_01)
 class_02 | [Go Now](class_02)
 class_03 | [Go Now](class_03)
+class_04 | [Go Now](class_04)
 
 
