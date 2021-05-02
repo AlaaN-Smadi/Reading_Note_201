@@ -13,5 +13,7 @@ class_01 | [Go Now](class_01)
 class_02 | [Go Now](class_02)
 class_03 | [Go Now](class_03)
 class_04 | [Go Now](class_04)
+class_05 | [Go Now](class_05)
+class_06 | [Go Now](class_06)
 
 
