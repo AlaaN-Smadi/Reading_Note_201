@@ -17,4 +17,6 @@ class_05 | [Go Now](class_05)
 class_06 | [Go Now](class_06)
 class_07 | [Go Now](class_07)
 class_08 | [Go Now](class_08)
-
+class_09 | [Go Now](class_09)
+class_10 | [Go Now](class_10)
+class_11 | [Go Now](class_11)
