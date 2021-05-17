@@ -17,13 +17,13 @@
 
 #### There are three functions that draw rectangles on the canvas:
 
-#### -- fillRect(x, y, width, height) --
+ -- fillRect(x, y, width, height) --
 #### Draws a filled rectangle.
 
-####  -- strokeRect(x, y, width, height) --
+  -- strokeRect(x, y, width, height) --
 #### Draws a rectangular outline.
 
-#### -- clearRect(x, y, width, height) --
+ -- clearRect(x, y, width, height) --
 #### Clears the specified rectangular area, making it fully transparent.
 
 #### Each of these three functions takes the same parameters. x and y specify the position on the canvas (relative to the origin) of the top-left corner of the rectangle. width and height provide the rectangle's size.
@@ -34,19 +34,19 @@
 
 #### To make shapes using paths, we take some extra steps:
 
-#### -- beginPath() --
+ -- beginPath() --
 #### Creates a new path. Once created, future drawing commands are directed into the path and used to build the path up.
 
-#### -- Path methods --
+ -- Path methods --
 #### Methods to set different paths for objects.
 
-#### -- closePath() --
+ -- closePath() --
 #### Adds a straight line to the path, going to the start of the current sub-path.
 
-#### -- stroke() --
+ -- stroke() --
 #### Draws the shape by stroking its outline.
 
-#### -- fill() --
+ -- fill() --
 #### Draws a solid shape by filling the path's content area.
 
 
@@ -61,14 +61,14 @@
 
 ## Applying styles and colors
 
-### -- Colors --
+ -- Colors --
 
 #### there are two important properties we can use: -- fillStyle -- and -- strokeStyle -- .
 
-#### -- fillStyle = color --
+ -- fillStyle = color --
 #### Sets the style used when filling shapes.
 
-#### -- strokeStyle = color --
+ -- strokeStyle = color --
 #### Sets the style for shapes' outlines.
 
 #### color is a string representing a CSS < color >, a gradient object, or a pattern object.
@@ -77,31 +77,31 @@
 
 ## Transparency
 
-### -- globalAlpha = transparencyValue --
+ -- globalAlpha = transparencyValue --
 #### Applies the specified transparency value to all future shapes drawn on the canvas. The value must be between 0.0 (fully transparent) to 1.0 (fully opaque). This value is 1.0 (fully opaque) by default.
 
 
 ## Line styles
 
-### -- lineWidth = value --
+ -- lineWidth = value --
 #### Sets the width of lines drawn in the future.
 
-### -- lineCap = type --
+ -- lineCap = type --
 #### Sets the appearance of the ends of lines.
 
-### -- lineJoin = type --
+ -- lineJoin = type --
 #### Sets the appearance of the "corners" where lines meet.
 
-### -- miterLimit = value --
+ -- miterLimit = value --
 #### Establishes a limit on the miter when two lines join at a sharp angle, to let you control how thick the junction becomes.
 
-### -- getLineDash() --
+ -- getLineDash() --
 #### Returns the current line dash pattern array containing an even number of non-negative numbers.
 
-### -- setLineDash(segments) --
+ -- setLineDash(segments) --
 #### Sets the current line dash pattern.
 
-### -- lineDashOffset = value --
+ -- lineDashOffset = value --
 #### Specifies where to start a dash array on a line.
 
 -----------------
@@ -110,10 +110,10 @@
 
 #### The canvas rendering context provides two methods to render text:
 
-### -- fillText(text, x, y [, maxWidth]) --
+ -- fillText(text, x, y [, maxWidth]) --
 #### Fills a given text at the given (x,y) position. Optionally with a maximum width to draw.
 
-### -- strokeText(text, x, y [, maxWidth]) --
+ -- strokeText(text, x, y [, maxWidth]) --
 #### Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw.
 
 
@@ -121,20 +121,21 @@
 
 ####  There are some more properties which let you adjust the way the text gets displayed on the canvas:
 
-### -- font = value --
+ -- font = value --
 #### The current text style being used when drawing text. This string uses the same syntax as the CSS font property. The default font is 10px sans-serif.
 
-### -- textAlign = value --
+ -- textAlign = value --
 #### Text alignment setting. Possible values: start, end, left, right or center. The default value is start.
-### -- textBaseline = value --
+
+-- textBaseline = value --
 #### Baseline alignment setting. Possible values: top, hanging, middle, alphabetic, ideographic, bottom. The default value is alphabetic.
 
-### -- direction = value --
+ -- direction = value --
 #### Directionality. Possible values: ltr, rtl, inherit. The default value is inherit.
 
 
 ## Advanced text measurements
 
-### -- measureText() --
+ -- measureText() --
 #### Returns a TextMetrics object containing the width, in pixels, that the specified text will be when drawn in the current text style.
 
