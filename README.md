@@ -1,6 +1,11 @@
-# Reading_Note_201
+# Reading Notes
 
-### Wellcome to Code 201 , here in this WebSite you can find all readings works within the period of this course 
+- this repo include the summarization of differents topics that we take it in ASAC that include:
+
+#### Code 102 - Intro to Software Development
+#### Code 201 - Foundations of Software Development
+#### Code 301 - Intermediate Software Development
+#### Code 401 - Advanced Software Development
 
 ![Code_201](https://static.javatpoint.com/computer/images/what-is-computer-programming.png)
 
@@ -24,3 +29,9 @@ class_12 | [Go Now](class_12)
 class_13 | [Go Now](class_13)
 class_14a | [Go Now](class_14a)
 class_14b | [Go Now](class_14b)
+
+
+page | link
+----- | -----
+reading for code 301 | [Go Now](https://alaan-smadi.github.io/read-notes-corrected/)
+class_01 | [Go Now](readingNote_301/class_01)
