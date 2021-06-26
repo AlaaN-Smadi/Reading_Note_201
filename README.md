@@ -33,5 +33,5 @@ class_14b | [Go Now](class_14b)
 
 page | link
 ----- | -----
-reading for code 301 | [Go Now](https://alaan-smadi.github.io/read-notes-corrected/)
+
 class_01 | [Go Now](readingNote_301/class_01)
