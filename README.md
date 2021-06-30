@@ -37,3 +37,4 @@ page | link
 class_01 | [Go Now](readingNote_301/class_01)
 class_02 | [Go Now](readingNote_301/class_02)
 class_03 | [Go Now](readingNote_301/class_03)
+class_04 | [Go Now](readingNote_301/class_04)
