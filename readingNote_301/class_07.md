@@ -1,4 +1,4 @@
-## Read 06
+## Read 07
 
 - Who is Roy Fielding?
 
@@ -32,5 +32,5 @@
 - OPTIONS:The OPTIONS method describes the communication options for the target resource.
 
 ## API
-![API](https://apifriends.com/wp-content/uploads/2017/10/APIgw_OAuth_Roles1-1024x622.pngs)
+![API](https://apifriends.com/wp-content/uploads/2017/10/APIgw_OAuth_Roles1-1024x622.png)
 
