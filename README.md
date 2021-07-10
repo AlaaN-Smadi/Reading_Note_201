@@ -43,3 +43,6 @@ class_06 | [Go Now](readingNote_301/class_06)
 class_07 | [Go Now](readingNote_301/class_07)
 class_08 | [Go Now](readingNote_301/class_08)
 class_09 | [Go Now](readingNote_301/class_09)
+class_10 | [Go Now](readingNote_301/class_10)
+class_11 | [Go Now](readingNote_301/class_11)
+
