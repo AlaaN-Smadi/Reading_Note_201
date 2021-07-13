@@ -45,4 +45,5 @@ class_08 | [Go Now](readingNote_301/class_08)
 class_09 | [Go Now](readingNote_301/class_09)
 class_10 | [Go Now](readingNote_301/class_10)
 class_11 | [Go Now](readingNote_301/class_11)
-
+class_12 | [Go Now](readingNote_301/class_12)
+class_13 | [Go Now](readingNote_301/class_13)
