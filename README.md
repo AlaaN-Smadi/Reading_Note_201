@@ -31,6 +31,10 @@ class_14a | [Go Now](class_14a)
 class_14b | [Go Now](class_14b)
 
 
+-----------------
+
+## 301 Reading Notes
+
 page | link
 ----- | -----
 
@@ -47,3 +51,12 @@ class_10 | [Go Now](readingNote_301/class_10)
 class_11 | [Go Now](readingNote_301/class_11)
 class_12 | [Go Now](readingNote_301/class_12)
 class_13 | [Go Now](readingNote_301/class_13)
+
+
+
+## 401 Reading Notes
+
+page | link
+----- | -----
+
+class_01 | [Go Now](401_Reads/401_Prep_reading)
