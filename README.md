@@ -59,4 +59,7 @@ class_13 | [Go Now](readingNote_301/class_13)
 page | link
 ----- | -----
 
-class_01 | [Go Now](401_Reads/401_Prep_reading)
+Prep Work | [Go Now](401_Reads/401_Prep_reading)
+class_01 | [Go Now](401_Reads/class_01)
+class_02 | [Go Now](401_Reads/class_02)
+class_03 | [Go Now](401_Reads/class_03)
