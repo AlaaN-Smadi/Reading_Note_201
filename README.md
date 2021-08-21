@@ -63,3 +63,5 @@ Prep Work | [Go Now](401_Reads/401_Prep_reading)
 class_01 | [Go Now](401_Reads/class_01)
 class_02 | [Go Now](401_Reads/class_02)
 class_03 | [Go Now](401_Reads/class_03)
+Linked List | [Go Now](401_Reads/linked_list)
+
