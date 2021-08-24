@@ -67,4 +67,6 @@ Linked List | [Go Now](401_Reads/linked_list)
 class_04 | [Go Now](401_Reads/class_04)
 class_06 | [Go Now](401_Reads/class_06)
 class_07 | [Go Now](401_Reads/class_07)
+class_08 | [Go Now](401_Reads/class_08)
+class_09 | [Go Now](401_Reads/class_09)
 
