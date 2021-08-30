@@ -27,7 +27,7 @@ and give a single user multiple roles
 #### **Term**
 
 **Authorization**: it’s a security mechanism to determine access levels or user/client privileges related to system resources including files, services, computer programs, data and application features.
-
+    
 
 **Role Based Access Control**: Role-based access control (RBAC) restricts network access based on a person’s role within an organization and has become one of the main methods for advanced access control. The roles in RBAC refer to the levels of access that employees have to the network.
 
