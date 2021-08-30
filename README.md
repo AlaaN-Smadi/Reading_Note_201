@@ -71,6 +71,8 @@ class_08 | [Go Now](401_Reads/class_08)
 class_09 | [Go Now](401_Reads/class_09)
 class_11 | [Go Now](401_Reads/class_11)
 Stack and Queue | [Go Now](401_Reads/stack_and_queue)
+class_12 | [Go Now](401_Reads/class_12)
+class_13 | [Go Now](401_Reads/class_13)
 
 
 
