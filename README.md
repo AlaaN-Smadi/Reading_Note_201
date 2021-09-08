@@ -75,6 +75,9 @@ class_12 | [Go Now](401_Reads/class_12)
 class_13 | [Go Now](401_Reads/class_13)
 class_14 | [Go Now](401_Reads/class_14)
 trees | [Go Now](401_Reads/trees)
+class_16 | [Go Now](401_Reads/class_16)
+class_17 | [Go Now](401_Reads/class_17)
+class_18 | [Go Now](401_Reads/class_18)
 
 
 
