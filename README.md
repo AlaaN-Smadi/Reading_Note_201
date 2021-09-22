@@ -78,6 +78,11 @@ trees | [Go Now](401_Reads/trees)
 class_16 | [Go Now](401_Reads/class_16)
 class_17 | [Go Now](401_Reads/class_17)
 class_18 | [Go Now](401_Reads/class_18)
+class_19 | [Go Now](401_Reads/class_19)
+class_26 | [Go Now](401_Reads/class_26)
+class_27 | [Go Now](401_Reads/class_27)
+class_28 | [Go Now](401_Reads/class_28)
+
 
 
 
