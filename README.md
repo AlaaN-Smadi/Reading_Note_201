@@ -84,6 +84,7 @@ class_27 | [Go Now](401_Reads/class_27)
 class_28 | [Go Now](401_Reads/class_28)
 class_29 | [Go Now](401_Reads/class_29)
 Hash Table | [Go Now](401_Reads/hash_Table)
+class_31 | [Go Now](401_Reads/class_31)
 
 
 
