@@ -88,6 +88,7 @@ class_31 | [Go Now](401_Reads/class_31)
 class_32 | [Go Now](401_Reads/class_32)
 class_33 | [Go Now](401_Reads/class_33)
 class_34 | [Go Now](401_Reads/class_34)
+class_graph | [Go Now](401_Reads/class_graph)
 
 
 
