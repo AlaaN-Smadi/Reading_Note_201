@@ -35,3 +35,4 @@ Because it enforces single-source-of-truth, and allows us to standardize how our
 
 
 **dispatch :** the act of passing (or, dispatching) an action from an action creator to a reducer.
+
